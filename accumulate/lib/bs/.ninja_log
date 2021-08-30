@@ -1,0 +1,21 @@
+# ninja log v5
+# start_time end_time mtime command hash
+2	15	1609892027377361781	Accumulate.cmi	5a8713dfcbf0d9de
+1	32	1609892027393363984	src/Accumulate.reast	fc3f63a06a055258
+32	36	1609892027397364535	src/Accumulate.d	f6964fe1159aa3f7
+0	42	1609892027401365086	__tests__/Accumulate_test.reast	989b0d336a93b76a
+42	48	1609892027409366186	__tests__/Accumulate_test.d	122db222aa1c60a9
+36	48	1609892027409366186	src/Accumulate-Accumulate.cmj	1288a2b73779041b
+36	48	1609892027409366186	src/Accumulate-Accumulate.cmi	1288a2b73779041b
+36	48	1609892027409366186	/home/andre/snap/exercism/5/exercism/reasonml/accumulate/src/Accumulate.bs.js	1288a2b73779041b
+0	21	1609892043507529614	__tests__/Accumulate_test-Accumulate.cmj	853408da2f1c9b5c
+0	21	1609892043507529614	__tests__/Accumulate_test-Accumulate.cmi	853408da2f1c9b5c
+0	21	1609892043507529614	/home/andre/snap/exercism/5/exercism/reasonml/accumulate/__tests__/Accumulate_test.bs.js	853408da2f1c9b5c
+0	32	1609892081920292939	src/Accumulate.reast	fc3f63a06a055258
+32	51	1609892081920292939	src/Accumulate.d	f6964fe1159aa3f7
+51	69	1609892081920292939	src/Accumulate-Accumulate.cmj	1288a2b73779041b
+51	69	1609892081920292939	src/Accumulate-Accumulate.cmi	1288a2b73779041b
+51	69	1609892081920292939	/home/andre/snap/exercism/5/exercism/reasonml/accumulate/src/Accumulate.bs.js	1288a2b73779041b
+69	94	1609892081952296694	__tests__/Accumulate_test-Accumulate.cmj	853408da2f1c9b5c
+69	94	1609892081952296694	__tests__/Accumulate_test-Accumulate.cmi	853408da2f1c9b5c
+69	94	1609892081952296694	/home/andre/snap/exercism/5/exercism/reasonml/accumulate/__tests__/Accumulate_test.bs.js	853408da2f1c9b5c
